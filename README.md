@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apka-pyara-aman
+- 👋 Hi, everyone aman this side
 - 👀 I’m interested in working for company
 - 🌱 I’m currently learning full stack devloper
 - 💞️ I’m looking to collaborate on project area
